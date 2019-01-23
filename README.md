@@ -1,2 +1,2 @@
-# Backdoor-PHP
-Simple php backdoor
+# Usage
+Site.com/backdoor.php?hidden=1
